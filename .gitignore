@@ -1,0 +1,25 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local datasets
+data/
+test.csv
+non_iid/
+
+# Model checkpoints
+*.pth
+
+# Local prediction files
+test_predictions/
+
+# Unnecessary plots
+plots_needed/
+10_round_plots/
+
+# Environment secrets
+.env

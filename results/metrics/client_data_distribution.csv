@@ -1,0 +1,5 @@
+Dataset,Normal_Count,Attack_Count,Total,Normal_Percentage,Attack_Percentage
+Client 1,457280,25188,482468,94.78,5.22
+Client 2,457280,22276,479556,95.35,4.65
+Client 3,457279,22268,479547,95.36,4.64
+Test Dataset,293969,14982,308951,95.15,4.85
