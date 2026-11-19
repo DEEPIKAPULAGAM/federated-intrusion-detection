@@ -88,10 +88,6 @@ FedProx uses a proximal regularization parameter of μ = 0.01.
 
 Detailed execution instructions will be provided with the final project documentation.
 
-## Note
-
-The dataset and trained model checkpoints are not included in this repository. They must be prepared or obtained separately before running the complete experiments.
-
 ## Project
 
 Federated Learning-Based Network Intrusion Detection under Non-IID Traffic Skew.
