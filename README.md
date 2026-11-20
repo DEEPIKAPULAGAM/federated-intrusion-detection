@@ -86,7 +86,6 @@ FedProx uses a proximal regularization parameter of μ = 0.01.
 5. Run the training scripts.
 6. Run the evaluation scripts to compare model performance.
 
-Detailed execution instructions will be provided with the final project documentation.
 
 ## Project
 
